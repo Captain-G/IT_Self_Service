@@ -1,0 +1,17 @@
+body{
+    font-size: 12px;
+}
+.colored{
+    color: skyblue;
+    margin-left: 15px;
+}
+
+.innerInfo{
+    margin-left: 15px;
+}
+
+.container-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
